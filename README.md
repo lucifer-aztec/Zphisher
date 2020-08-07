@@ -19,7 +19,7 @@
 * `apt install git curl php openssh -y`
 * `git clone https://github.com/mrjarvisofficial/Zphisher.git`
 * `cd zphisher`
-##### Note : save your ngrok account with your authtoken ngrok token
+#### Note : Connect your ngrok account with your ngrok token
 #### > Run : `bash zphisher.sh`
 
 ## Single Command :
