@@ -19,6 +19,7 @@
 * `apt install git curl php openssh -y`
 * `git clone https://github.com/mrjarvisofficial/Zphisher.git`
 * `cd zphisher`
+* `chmod +x **`
 #### Note : Connect your ngrok account with your ngrok token
 #### > Run : `bash zphisher.sh`
 
