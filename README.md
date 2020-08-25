@@ -16,17 +16,16 @@
 ## Installation :
 
 * `apt update`
+* `pkg install git`
 * `apt install git curl php openssh -y`
 * `git clone https://github.com/mrjarvisofficial/Zphisher.git`
 * `cd zphisher`
+* `chmod 777 install-ngrok.sh`
+* `./install-ngrok.sh`
 * `chmod +x **`
 #### Note : Connect your ngrok account with your ngrok token
 #### > Run : `bash zphisher.sh`
 
-## Single Command :
-```
-apt update ; apt install git curl php openssh -y ; git clone https://github.com/mrjarvisofficial/Zphisher.git ; cd zphisher ; bash zphisher.sh
-```
 <br>
 <p align="center">
 <img width="40%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher1.png"/>
